@@ -21,17 +21,4 @@ Here are some ideas to get you started:
   My goal is to offer more products that people would prefer.
 
 **⚡ Skills ⚡**
-- Programming Language:
-HTML, CSS, JavaScript, TypeScript, PHP, Python, C/C++, Java, NodeJS
-- Styling Lanuage:
-Bootstrap, SCSS, LESS, Tailwind CSS
-- Front-end Framework
-React, Vue.js, Angular, Next.js
-- Back-end Framework
-Laravel, ExpressJS, Django, Ruby on Rail, SpringBoot
-- Database
-MySQL, PostgreSQL, MongoDB, Oracle, Elasticsearch
-- No-Coding Platform
-WordPress, Magento, Webflow
-- Blockchain:
-Smart Contract, Ethereum, Web3
+Full-Stack Development, Blockchain, DevOps
