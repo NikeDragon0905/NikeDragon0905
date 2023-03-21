@@ -15,18 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a full-time front-end engineer currently working at Wix.com as a solution engineer and advocate. I also have a business in Japan, a web service I created. (https://labelmake.jp/).
-Currently, I am based in Tokyo, Japan, but I would like to work in another country if I get the chance someday.
+  I am an experienced senior full-stack developer who has been mainly focusing on JavaScript, Python, C/C++ and Java to develop the products.
+  During last 6+years, I have worked in many companies to build applications for people all over the world. As an active and innovative learner, I love learning new programming languages and skills. 
+  I have rich experience in blockchain technology and cryptocurrencies  as well for DeFi application. I fully guarantee my code quality and I am eager to brainstorm a new idea with teammates.
+  My goal is to offer more products that people would prefer.
 
-Please feel free to reach out via email or connect with me on LinkedIn. I am always happy to talk, answer questions, or discuss new opportunities.
-
-Love
-Service development from scratch
-Personal Development (web tools, web services etc.)
-OSS (I maintain pdfme, a PDF generation library.)
-I often use the Hopding/pdf-lib and daybrush/moveable libraries and I would have never set up my own business without their contribution. I am therefore very grateful to their authors, whom I support financially.
-
-Field of expertise
-APIs, Jamstack, React, TypeScript, JavaScript optimization, Node.js, SEO.
-Learning
-English, Marketing, Golang, etc.
+**⚡ Skills ⚡**
+- Programming Language:
+HTML, CSS, JavaScript, TypeScript, PHP, Python, C/C++, Java, NodeJS
+- Styling Lanuage:
+Bootstrap, SCSS, LESS, Tailwind CSS
+- Front-end Framework
+React, Vue.js, Angular, Next.js
+- Back-end Framework
+Laravel, ExpressJS, Django, Ruby on Rail, SpringBoot
+- Database
+MySQL, PostgreSQL, MongoDB, Oracle, Elasticsearch
+- No-Coding Platform
+WordPress, Magento, Webflow
+- Blockchain:
+Smart Contract, Ethereum, Web3
