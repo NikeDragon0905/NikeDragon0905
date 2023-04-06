@@ -1,12 +1,4 @@
-<h1 align="center">
-  Senior Full Stack & Blockchain Engineer
-</h1>
-
-<p align="center">
-  <img src="https://github.com/BritnessDev/BritnessDev/blob/main/Logo.gif" />
-</p>
-
-### Hi there 👋
+### Hi, there! 👋
 
 <!--
 **romanmorris/romanmorris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
